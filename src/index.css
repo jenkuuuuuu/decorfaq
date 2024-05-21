@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #19161d;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -18,7 +18,7 @@
   display: flex;
   min-width: 320px;
   min-height: 100vh;
-  background-color:#303131;
+  background-color:#1e1a23;
   justify-content: center;
 }
 
@@ -37,7 +37,7 @@
   text-align: left;
   margin-left: auto;
   margin-right: auto;
-  background-color: #242424;
+  background-color: #19161d;
   padding: 1rem;
 }
 
@@ -56,7 +56,7 @@ p{
   margin-bottom: 1rem;
   padding: 2rem;
   padding-top: 0.2rem;
-  background-color: #242424;
+  background-color: #1e1a23;
   border: 2px solid transparent;
 }
 
@@ -66,5 +66,5 @@ p{
 
 p:target {
   transition: border 1s;
-  border: 2px solid #747bff;
+  border: 2px solid #d22316;
 }
