@@ -51,7 +51,7 @@ function App() {
 
         <p id="NotShowingUp">
           <h1>Decors Not Showing Up</h1>
-          First, decor doesn't work using Vencord on the web, only in the actual app, so if you're on the web it can't be helped.
+          First, decor doesn't work using Vencord on Firefox with the userscript, only in the actual app. We can't do anything about that as it's due to cors, please don't ask for support if this is the case.
           <br/><br/>
           If all of the decors show up as broken images, see if you can access <a href='https://decor.fieryflames.dev/api/users/1076130548797415434'>this</a> page. If you can't, something in your network is blocking it, and decor won't work unless you're able to get it unblocked.
           <br/><br/>
