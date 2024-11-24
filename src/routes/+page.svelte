@@ -76,7 +76,7 @@
     </ul>
 </div>
     <div class="thestuff">
-        <h2 class="notice">Decor on Vencord is currently broken because Discord changed UI stuff, should be fixed relatively shortly.</h2>
+        <h2 class="notice">The fix for Decor was merged, if you're still having issues with the component not rendering make sure your Vencord is updated!</h2>
     <div id="Animated">
         <h1>Animated Decors</h1>
         Animated decors use APNGs, which to put simply are pngs as gifs. The file extension is just .png, not .apng. Unlike gifs, which only support something being transparent or opaque, APNGs support opacity, so your animated decors can have transparent elements.
