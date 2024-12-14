@@ -91,9 +91,9 @@
 
       <div id="Mobile">
         <h1>Using Decor on Mobile</h1>
-        To use Decor on mobile, you'll need to use a mobile client mod. Use your Vendetta fork of choice, or, on iOS you can use <a href='https://github.com/enmity-mod/enmity'>Enmity/Unbound</a> with VendettaCompat.
+         The Decor Vendetta plugin is no longer supported and is broken on latest stable. If you still want to use it, you can still do so with a mobile client mod, but will have to use an older version of Discord. Use your Vendetta fork of choice, or, on iOS you can use <a href='https://github.com/enmity-mod/enmity'>Enmity/Unbound</a> with VendettaCompat.
         <br/><br/>
-        Add the plugin using the <a href="https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/">proxied Vendetta plugin link</a> inside the app. The Decor Vendetta plugin is no longer supported, but is currently still functional.
+        Add the plugin using the <a href="https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/">proxied Vendetta plugin link</a> inside the app.
       </div>
 
       <div id="NotShowingUp">
