@@ -54,7 +54,6 @@
     <div>
         <h1>Frequently Asked Questions</h1>
 <div class="comment">This covers some questions that are asked in support multiple times, so heres a couple of little explanations for each!</div>
-<h2 class="notice">Decor on Vencord is currently broken, this is a known issue. Check the known-issues channel in the Vencord server for updates.</h2>
 </div>
 <button class="sidebar-toggle add" aria-label="Toggle Sidebar">☰</button>
 </div>
@@ -77,6 +76,7 @@
     </ul>
 </div>
     <div class="thestuff">
+<h2 class="notice">Decor on Vencord is currently broken, this is a known issue. Check the known-issues channel in the Vencord server for updates.</h2>
     <div id="Animated">
         <h1>Animated Decors</h1>
         Animated decors use APNGs, which to put simply are pngs as gifs. The file extension is just .png, not .apng. Unlike gifs, which only support something being transparent or opaque, APNGs support opacity, so your animated decors can have transparent elements.
