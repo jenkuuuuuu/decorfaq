@@ -54,6 +54,7 @@
     <div>
         <h1>Frequently Asked Questions</h1>
 <div class="comment">This covers some questions that are asked in support multiple times, so heres a couple of little explanations for each!</div>
+<h2 class="notice">Decor on Vencord is currently broken, this is a known issue. Check the known-issues channel in the Vencord server for updates.</h2>
 </div>
 <button class="sidebar-toggle add" aria-label="Toggle Sidebar">☰</button>
 </div>
